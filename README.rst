@@ -41,7 +41,7 @@ If you are a company providing Scrapy consulting or spider development, you
 can submit a pull request to add your company to the "Scrapy Pros" list.
 
 The companies are sorted by their overall contribution to the Scrapy project
-and ecosystem. There's a small process to manage that:
+and ecosystem. There is a small process to manage that:
 
 1. In order to appear in the list, a company must score at least five points
    in the table below.
